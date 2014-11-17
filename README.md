@@ -1,5 +1,6 @@
 Mini-Entity-FrameWork-Python
 ============================
+Connect to postgresql
 
 Sample
 

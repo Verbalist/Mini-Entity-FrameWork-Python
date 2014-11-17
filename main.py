@@ -1,8 +1,3 @@
-Mini-Entity-FrameWork-Python
-============================
-
-Sample
-
 import EF
 
 f = EF.query("SELECT * FROM COUNTRY")

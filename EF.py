@@ -1,7 +1,7 @@
 import postgresql
 
 #конект к дб
-db = postgresql.open(user = 'postgres', host = 'localhost', port = 5432, password='1111', database='course')
+db = postgresql.open(user = 'postgres', host = 'localhost', port = 5432, password='your_password', database='your_databases')
 
 #пустой метаклас
 class EntityBase(object): pass
